@@ -6,6 +6,13 @@ A simple **React** component that animates text using **Motion**.
 - Smooth slide-in animation for text
 - Customizable delay and duration
 - Supports child elements animation delay
+## Demo
+
+
+
+https://github.com/user-attachments/assets/14611772-5203-484f-9bb0-62c271872953
+
+
 
 ## 📦 Installation
 
