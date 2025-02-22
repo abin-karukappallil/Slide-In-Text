@@ -1,0 +1,33 @@
+{
+  "name": "slide-in-text",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["react","nextjs","reactcomponent","slideintext","text animation","animation"],
+  "author": "abin-karukappallil",
+  "license": "MIT",
+  "description": "A simple React component that animates text using Motion.",
+  "peerdDependencies": {
+    "motion": "^12.4.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.26.3",
+    "@types/react": "^19.0.10",
+    "tsup": "^8.3.6",
+    "typescript": "^5.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abin-karukappallil/Slide-In-Text"
+  }
+
+}
