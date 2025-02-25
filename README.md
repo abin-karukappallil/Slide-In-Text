@@ -1,5 +1,10 @@
 # SlideInText
 
+### DOWNLOADS📈
+
+![NPM Downloads](https://img.shields.io/npm/d18m/slide-in-text?style=for-the-badge&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fslide-in-text)
+
+-------------------
 A simple **React** component that animates text using **Motion**.
 
 ## 🚀 Features
